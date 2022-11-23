@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Krisgun Chirasanta</h1>
-<h3 align="left">MEng Mechanical Engineering from Imperial College London        [&#x2713;]</h3>
-<h3 align="left">Engineer        [&#x2713;]</h3>
-<h3 align="left">Business Analyst/Strategy  [&#x2713;]</h3>
-<h3 align="left">Data Scientist     [...]</h3>
+<h2 align="left">My Experiences </h2>
+Engineer        [&#x2713;]<br>
+Business Analyst/Strategy  [&#x2713;]<br>
+Data Scientist     [...]
 
 <br>
-
+<h2 align="left">Currently </h2>
 <h3> I recently completed my Data Science Immersive course by True Digital Academy X General Assembly. The followings are example projects both done during the immersive and on my own time: </h3>
 
 <br>
 
 **CAPSTONE**
-- Unsupervised learning on GeoLocation Dataset to identify business opportunities [GeoPulse Clustering](https://github.com/krisgch/dsi_capstone_geospatial_clustering)
+- [**GeoPulse Clustering**](https://github.com/krisgch/dsi_capstone_geospatial_clustering): Unsupervised learning on GeoSpatial data to classify types of location based on existing demographics and customer segmentation data in order to **expand business to acquire customers from new industries**
+
+- [**Image Recolorization for Colorblind**](https://github.com/krisgch/image_recolorization_for_colorblind): Using KMeans clustering on image file to identify key colors to match with the closest colorblind friendly color, allowing colorblind to pass **Ishihara Test for Colorblind**
 
 **PROJECTS** 
-- NLP to identify actionable insights to improve MOOC platforms [NLP MOOC analysis](https://github.com/krisgch/dsi_project_nlp)
+- [**NLP MOOC subreddit analysis**](https://github.com/krisgch/dsi_project_nlp): NLP and subreddit classification to identify **actionable insights** to improve MOOC platforms from evaluating feature importances
+
+- [**Housing Predict competition**](https://github.com/krisgch/dsi_project_ames): Allowing on linear regression, teams compete to create the best model to **predict housing price** in Ames, Iowa
 
 **CHALLENGES** 
-- Classify wage range with a limit of columns of features [Good Fast Cheap](https://github.com/krisgch/dsi_project_good_fast_cheap)
+- [**Good Fast Cheap**](https://github.com/krisgch/dsi_project_good_fast_cheap): One day hackathon to create a machine learning model that classify wage range with a **limit of 20 columns of features as a constraint**
 
 <br>
 
-**Reach me through my email:** [Email](krisgun.chirasanta@gmail.com), [LinkedIn](https://www.linkedin.com/in/krisgunchirasanta0/), [Phone](+66-838004994)
+**Reach me through my email:** [**Email**](krisgun.chirasanta@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/krisgunchirasanta0/), [**Phone**](+66-838004994)
 
 **Fun fact:** I also train dogs and compete in dog agility, check out my [YouTube](https://www.youtube.com/channel/UCSPfJ89aYsRhpDSnZ0vaFCg), [Facebook](https://www.facebook.com/MollieEllaAgility)
 
