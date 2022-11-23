@@ -6,7 +6,7 @@ Data Scientist     [...]
 
 <br>
 <h2 align="left">Currently </h2>
-<h3> I recently completed my Data Science Immersive course by True Digital Academy X General Assembly. The followings are example projects both done during the immersive and on my own time: </h3>
+<h3> Completed my Data Science Immersive course by True Digital Academy X General Assembly. The followings are example projects both done during the immersive and on my own time: </h3>
 
 <br>
 
