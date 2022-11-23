@@ -25,7 +25,10 @@ Data Scientist     [...]
 
 <br>
 
-**Reach me through my email:** [**Email**](krisgun.chirasanta@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/krisgunchirasanta0/), [**Phone**](+66-838004994)
+**Contact me:** <br>
+**Email**: krisgun.chirasanta@gmail.com <br>
+**LinkedIn**: https://www.linkedin.com/in/krisgunchirasanta0/ <br>
+**Phone**:+66-8-3800-4994 <br>
 
 **Fun fact:** I also train dogs and compete in dog agility, check out my [YouTube](https://www.youtube.com/channel/UCSPfJ89aYsRhpDSnZ0vaFCg), [Facebook](https://www.facebook.com/MollieEllaAgility)
 
