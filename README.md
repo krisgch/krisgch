@@ -2,7 +2,7 @@
 <h2 align="left">My Experiences </h2>
 Engineer        [&#x2713;]<br>
 Business Analyst/Strategy  [&#x2713;]<br>
-Data Scientist     [...]
+Data Scientist     [&#x2713;]
 
 <br>
 <h2 align="left">Currently </h2>
